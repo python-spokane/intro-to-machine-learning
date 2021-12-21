@@ -1,7 +1,7 @@
 from __future__ import annotations
 import dataclasses
 import random
-from typing import Iterable
+from typing import Iterable, Optional
 
 
 @dataclasses.dataclass
